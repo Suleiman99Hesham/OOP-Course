@@ -1,0 +1,5 @@
+ArialPowder Washing 0 200
+Lambada Takeaway 2 3
+Borger Meat 29 70
+Lux Takeaway 10 5
+LiptonTea Drinking 10 20

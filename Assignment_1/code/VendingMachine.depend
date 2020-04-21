@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1508449374 source:c:\users\user\desktop\assignment -1\ay ebn wza\fooditem.cpp
+	"FoodItem.h"
+	<iostream>
+	<iomanip>
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+
+1508448229 c:\users\user\desktop\assignment -1\ay ebn wza\fooditem.h
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+	"string"
+
+1508443166 c:\users\user\desktop\assignment -1\ay ebn wza\vendingmachine.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508440872 c:\users\user\desktop\assignment -1\ay ebn wza\moneydrawer.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508421799 source:c:\users\user\desktop\assignment -1\ay ebn wza\main.cpp
+	<iostream>
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	"VendingMachine.h"
+	"string"
+
+1508441739 source:c:\users\user\desktop\assignment -1\ay ebn wza\moneydrawer.cpp
+	"MoneyDrawer.h"
+	<iostream>
+	<sstream>
+
+1508445308 source:c:\users\user\desktop\assignment -1\ay ebn wza\vendingmachine.cpp
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	<iostream>
+
+1508449374 source:d:\programming-2\assignment -1\ay ebn wza\fooditem.cpp
+	"FoodItem.h"
+	<iostream>
+	<iomanip>
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+
+1508448229 d:\programming-2\assignment -1\ay ebn wza\fooditem.h
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+	"string"
+
+1508443166 d:\programming-2\assignment -1\ay ebn wza\vendingmachine.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508440872 d:\programming-2\assignment -1\ay ebn wza\moneydrawer.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508421799 source:d:\programming-2\assignment -1\ay ebn wza\main.cpp
+	<iostream>
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	"VendingMachine.h"
+	"string"
+
+1508441739 source:d:\programming-2\assignment -1\ay ebn wza\moneydrawer.cpp
+	"MoneyDrawer.h"
+	<iostream>
+	<sstream>
+
+1508445308 source:d:\programming-2\assignment -1\ay ebn wza\vendingmachine.cpp
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	<iostream>
+
+1508449374 source:d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\fooditem.cpp
+	"FoodItem.h"
+	<iostream>
+	<iomanip>
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+
+1508448229 d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\fooditem.h
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"VendingMachine.h"
+	"string"
+
+1508443166 d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\vendingmachine.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508440872 d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\moneydrawer.h
+	"FoodItem.h"
+	"MoneyDrawer.h"
+	"string"
+
+1508421799 source:d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\main.cpp
+	<iostream>
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	"VendingMachine.h"
+	"string"
+
+1508441739 source:d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\moneydrawer.cpp
+	"MoneyDrawer.h"
+	<iostream>
+	<sstream>
+
+1508445308 source:d:\education\fci\second year\programming-2\assignment -1\ay ebn wza\vendingmachine.cpp
+	"VendingMachine.h"
+	"MoneyDrawer.h"
+	"FoodItem.h"
+	<iostream>
+

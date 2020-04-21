@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1510255377 source:d:\programming-2\assignment -2\ass 2\bigint.cpp
+	"BigInt.h"
+	<string>
+	<iostream>
+
+1510255368 d:\programming-2\assignment -2\ass 2\bigint.h
+	<string>
+
+1510262711 source:d:\programming-2\assignment -2\ass 2\main.cpp
+	<iostream>
+	<string>
+	"BigInt.h"
+	<fstream>
+
+1510255377 source:d:\programming-2\assignment -2\20160310_20160317_ass#2\ass 2\bigint.cpp
+	"BigInt.h"
+	<string>
+	<iostream>
+
+1510255368 d:\programming-2\assignment -2\20160310_20160317_ass#2\ass 2\bigint.h
+	<string>
+
+1510262711 source:d:\programming-2\assignment -2\20160310_20160317_ass#2\ass 2\main.cpp
+	<iostream>
+	<string>
+	"BigInt.h"
+	<fstream>
+

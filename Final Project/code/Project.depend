@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1513118625 source:d:\programming-2\assignment -3\project\item.cpp
+	"Item.h"
+	<iostream>
+
+1513118625 d:\programming-2\assignment -3\project\item.h
+	<iostream>
+
+1513951383 source:d:\programming-2\assignment -3\project\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+	"Admin.h"
+	"Customer.h"
+	"time.h"
+	<bits/stdc++.h>
+
+1513338450 source:d:\programming-2\assignment -3\project\stock.cpp
+	"Stock.h"
+	"item.h"
+	<fstream>
+
+1513308745 d:\programming-2\assignment -3\project\stock.h
+	"Item.h"
+
+1512743502 source:c:\users\joe\desktop\project\item.cpp
+	"Item.h"
+	<iostream>
+
+1512743516 c:\users\joe\desktop\project\item.h
+	<iostream>
+
+1513066206 source:c:\users\joe\desktop\project\stock.cpp
+	"Stock.h"
+	"item.h"
+	<fstream>
+
+1513066857 c:\users\joe\desktop\project\stock.h
+	"Item.h"
+
+1513074702 source:c:\users\joe\desktop\project\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+	"Admin.h"
+	"Customer.h"
+
+1512485825 source:c:\users\joe\desktop\project\person\person.cpp
+	"Person.h"
+	<iostream>
+	<string.h>
+
+1512485825 c:\users\joe\desktop\project\person\person.h
+	<iostream>
+	<string.h>
+
+1513074719 source:c:\users\joe\desktop\project\admin.cpp
+	"Admin.h"
+	<iostream>
+	"Stock.h"
+	<fstream>
+	<Customer.h>
+
+1513074702 c:\users\joe\desktop\project\admin.h
+	<iostream>
+	"Stock.h"
+
+1513066857 c:\users\joe\desktop\project\\stock.h
+	"Item.h"
+
+1512743516 c:\users\joe\desktop\project\\item.h
+	<iostream>
+
+1513071682 source:c:\users\joe\desktop\project\customer.cpp
+	"Customer.h"
+	"Admin.h"
+	<iostream>
+
+1513074556 c:\users\joe\desktop\project\customer.h
+	<iostream>
+	"Stock.h"
+	"Admin.h"
+
+1513074556 c:\users\joe\desktop\project\\customer.h
+	<iostream>
+	"Stock.h"
+	"Admin.h"
+
+1513074702 c:\users\joe\desktop\project\\admin.h
+	<iostream>
+	"Stock.h"
+
+1513951716 source:d:\programming-2\assignment -3\project\admin.cpp
+	"Admin.h"
+	<iostream>
+	"Stock.h"
+	<fstream>
+	"Customer.h"
+
+1513142680 d:\programming-2\assignment -3\project\admin.h
+	<iostream>
+	"Stock.h"
+
+1513951989 source:d:\programming-2\assignment -3\project\customer.cpp
+	"Customer.h"
+	"Admin.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1513378020 d:\programming-2\assignment -3\project\customer.h
+	<iostream>
+	"Stock.h"
+	"Admin.h"
+	"time.h"
+
+1512485825 source:d:\programming-2\assignment -3\project\person\person.cpp
+	"Person.h"
+	<iostream>
+	<string.h>
+
+1512485825 d:\programming-2\assignment -3\project\person\person.h
+	<iostream>
+	<string.h>
+
+1513302838 d:\programming-2\assignment -3\project\time.h
+	<string.h>
+	<iostream>
+
+1513303579 source:d:\programming-2\assignment -3\project\time.cpp
+	"time.h"
+	<bits/stdc++.h>
+
